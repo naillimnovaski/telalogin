@@ -25,6 +25,8 @@ h2 {
 
 input[type="text"],
 input[type="password"],
+input[type="tel"],
+input[type="email"],
 button {
     display: block;
     width: calc(100% - 22px);
