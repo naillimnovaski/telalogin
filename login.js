@@ -20,7 +20,7 @@ function verificaSenha(){
     if (pswd == pswdconf) {
         alert("As senhas foram digitadas corretamente");
     }else{
-        alert("Senhas não conferem");
+        alert("Senhas nao conferem");
     }
 }
 
