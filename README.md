@@ -12,7 +12,7 @@
 O projeto consiste no desenvolvimento de uma tela de login interativo para a empresa Alpha, utilizando JavaScript, HTML5 e CSS3. A tela permite ao usuário fazer login, cadastrar-se e recuperar sua senha, seguindo os padrões de autenticação usuais em aplicações web.
 
 ## Introdução ✉️
-A empresa Alpha busca expandir suas operações e estabelecer uma equipe de TI própria. Para selecionar o candidato ideal para a vaga de Programador(a) Trainee, eles propuseram um desafio que envolve a criação ou utilização de um projeto de tela de login, com foco na validação dos campos de acesso e na implementação de uma página para recuperação de senha.
+A empresa Alpha busca expandir suas operações e estabelecer uma equipe de TI própria. Para selecionar o candidato ideal para a vaga de Programador(a) Trainee, eles propuseram um desafio que envolve a criação ou utilização de um projeto de tela de login, com foco na validação dos campos de acesso e na implementação de uma página para recuperação de senha. 
 
 <img scr= "print.png">
 
